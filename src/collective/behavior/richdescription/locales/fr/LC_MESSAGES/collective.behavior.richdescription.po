@@ -16,13 +16,13 @@ msgstr ""
 
 #: ../configure.zcml:19
 msgid "Add a rich description field that will be displayed in a fieldset above the content body"
-msgstr ""
+msgstr "Ajoute un champs de description riche qui sera affiché dans un fieldset au dessus du corps du contenu"
 
 #: ../behavior.py:17
 #: ../configure.zcml:19
 msgid "Rich description"
-msgstr ""
+msgstr "Description riche"
 
 #: ../behavior.py:18
 msgid "This description will be displayed above the content body"
-msgstr ""
+msgstr "Cette description sera affichée au dessus du corps du contenu"
