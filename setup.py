@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='collective.behavior.richdescription',
-    version='1.0a1',
+    version='1.0a2.dev0',
     description="A rich description behavior and viewlet for Dexterity",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
