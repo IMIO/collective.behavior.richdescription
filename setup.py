@@ -29,7 +29,7 @@ setup(
     ],
     keywords='Python Plone',
     author='Martin Peeters',
-    author_email='martin.peeters@affinitic.be',
+    author_email='support@imio.be',
     url='https://pypi.python.org/pypi/collective.behavior.richdescription',
     license='GPL version 2',
     packages=find_packages('src', exclude=['ez_setup']),
